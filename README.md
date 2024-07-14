@@ -1,5 +1,9 @@
 ## Hi there 👋
-[![roadmap.sh](https://roadmap.sh/card/wide/6682e454d270cc49a6b04554?variant=dark)](https://roadmap.sh)
+<!-- Wide Card -->
+<!-- [![roadmap.sh](https://roadmap.sh/card/wide/6682e454d270cc49a6b04554?variant=dark)](https://roadmap.sh) -->
+
+[![roadmap.sh](https://roadmap.sh/card/tall/6682e454d270cc49a6b04554?variant=dark)](https://roadmap.sh)
+
 <!--
 **NasirAziz/NasirAziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
